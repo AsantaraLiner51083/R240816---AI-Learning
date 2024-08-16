@@ -1,8 +1,8 @@
-Dataset Student Scores
+# **Dataset Student Scores**
 
 This Google Colaboratory Project is done by analyzing the Student Scores by using the Artificial Intelligence.
 
-Goals
+# **Goals**
 1. Identifying the possible Duplicated Datas
 2. Identifying the possible Missing Values
 3. Identifying the Outlier Analysis
